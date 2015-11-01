@@ -17,7 +17,7 @@ Validations:
 
 
 Following things can be achieved if given more time.
-1. Display or looks can be improved.
+1. Display or looks can be improved. (Including favicon)
 2. Charts can be used along with the table. Graph and charts is always a better option when display any stats.
 3. List of issues can also be displayed along with the count of issues, who added that issue, along with their picture, sorting, pagination etc.
 4. More comments to the code can be added.
